@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <meta charset="utf-8" />
-    <title><?php bloginfo('name'); ?></title>
+    <title>Rest - <?php the_title(); ?></title>
 
     <link
       href="https://fonts.googleapis.com/css?family=Alegreya+SC"
