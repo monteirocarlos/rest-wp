@@ -1,3 +1,4 @@
+<?php //Template Name: Sobre ?>
 <?php get_header(); ?>
 
 		<section class="container sobre">
